@@ -1,0 +1,11 @@
+Install requirements:
+pip install -r requirements.txt
+
+Basic workflow (please, run with these numbers of ports):
+1. python server.py -file_path="frankenstein.txt" -port=5001 (run the first server)
+2. python server.py -file_path="dracula.txt" -port=5002 (run the second server)
+3. python client.py (run the client)
+
+Tests:
+(this didn`t work with my pip dependencies (initial configuration), but worked in conda environment, I don`t know why)
+pytest test_client.py

@@ -1,0 +1,136 @@
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 58725)
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Connected by ('127.0.0.1', 49954)
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Connected by ('127.0.0.1', 53644)
+ERROR:Server log:File frankenstein does not exist
+ERROR:Server log:File frankenstein does not exist
+INFO:Server log:Server listening on localhost:5002 for frankenstein.txt
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 51924) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 51923) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Connected by ('127.0.0.1', 59857) (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 59856) (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:The server frankenstein.txt is stopped
+INFO:Server log:The server dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 55646) (Server: dracula.txt)
+ERROR:Server log:Connection with ('127.0.0.1', 55646) closed unexpectedly: [WinError 10053] An established connection was aborted by the software in your host machine (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 59958) (Server: dracula.txt)
+ERROR:Server log:Connection with ('127.0.0.1', 59958) closed unexpectedly: [WinError 10053] An established connection was aborted by the software in your host machine (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 55218) (Server: dracula.txt)
+ERROR:Server log:Connection with ('127.0.0.1', 55218) closed unexpectedly: [WinError 10053] An established connection was aborted by the software in your host machine (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 55874) (Server: dracula.txt)
+ERROR:Server log:Connection with ('127.0.0.1', 55874) closed unexpectedly: [WinError 10053] An established connection was aborted by the software in your host machine (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 50453) (Server: dracula.txt)
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 62481) (Server: dracula.txt)
+ERROR:Server log:Connection with ('127.0.0.1', 62481) closed unexpectedly: [WinError 10053] An established connection was aborted by the software in your host machine (Server: dracula.txt)
+ERROR:Server log:An exception occurred, the server is stopped: [WinError 10053] An established connection was aborted by the software in your host machine
+ERROR:Server log:File dracula.txt does not exist
+ERROR:Server log:File dracula.txt does not exist
+ERROR:Server log:File dracula.txt does not exist
+ERROR:Server log:File frankenstein.txt does not exist
+ERROR:Server log:File frankenstein.txt does not exist
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 53123) (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 53124) (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 59637) (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 59638) (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 59641) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 59640) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 59644) (Server: dracula.txt)
+xt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:Connected by ('127.0.0.1', 51180) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 51179) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 50963) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 50964) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 49934) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 49935) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 49897) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 49898) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:The server for dracula.txt is stopped
+INFO:Server log:Server listening on localhost:5001 for frankenstein.txt
+INFO:Server log:Server listening on localhost:5002 for dracula.txt
+INFO:Server log:Connected by ('127.0.0.1', 50181) (Server: frankenstein.txt)
+INFO:Server log:Connected by ('127.0.0.1', 50182) (Server: dracula.txt)
+INFO:Server log:File sent successfully (Server: frankenstein.txt)
+INFO:Server log:Connection closed (Server: frankenstein.txt)
+INFO:Server log:File sent successfully (Server: dracula.txt)
+INFO:Server log:Connection closed (Server: dracula.txt)
+INFO:Server log:The server for frankenstein.txt is stopped
+INFO:Server log:The server for dracula.txt is stopped
